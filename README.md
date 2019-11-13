@@ -44,10 +44,7 @@ $ git clone https://github.com/sandyadzim/Project-SKYROOM
 $ npm install
 $ react-native run-android #for android
 ```
-Open “app/Config.js”, and set the meteorUri variable as your Meteor server run at
-```javascript
-export const meteorUri = ‘ws://localhost:3000/websocket’;
-```
+
 
 **Back-end:**
 ```
